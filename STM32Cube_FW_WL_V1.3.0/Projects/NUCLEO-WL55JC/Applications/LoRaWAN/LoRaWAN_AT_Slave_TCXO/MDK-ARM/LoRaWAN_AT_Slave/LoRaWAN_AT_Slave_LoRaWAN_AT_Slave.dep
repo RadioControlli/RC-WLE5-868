@@ -243,7 +243,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\..\..\..\..\..\Utilities\misc\stm32_mem.h)(0x636A4E1F)
 I (..\Core\Inc\utilities_conf.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\misc\stm32_tiny_vsnprintf.h)(0x636A4E1F)
@@ -302,7 +302,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\..\..\..\..\..\Utilities\lpm\tiny_lpm\stm32_lpm.h)(0x636A4E1F)
 I (..\Core\Inc\stm32_lpm_if.h)(0x636A4E1F)
 I (..\Core\Inc\usart_if.h)(0x636A4E1F)
@@ -368,7 +368,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\Core\Inc\sys_app.h)(0x636A4E1F)
 I (..\Core\Inc\sys_conf.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\trace\adv_trace\stm32_adv_trace.h)(0x636A4E1F)
@@ -439,7 +439,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\Core\Inc\sys_debug.h)(0x636A4E1F)
 I (..\Core\Inc\sys_conf.h)(0x636A4E1F)
 F (../Core/Src/timer_if.c)(0x636A4E1F)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=none -mfloat-abi=soft -c-fno-rtti -funsigned-char-D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../Core/Inc -I ../LoRaWAN/App -I ../LoRaWAN/Target -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/Legacy -I ../../../../../../Utilities/trace/adv_trace -I ../../../../../../Utilities/misc -I ../../../../../../Utilities/sequencer -I ../../../../../../Utilities/timer -I ../../../../../../Utilities/lpm/tiny_lpm -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages -I ../../../../../../Drivers/CMSIS/Device/ST/STM32WLxx/Include -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Crypto -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac/Region -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Utilities -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy/stm32_radio_driver -I ../../../../../../Drivers/CMSIS/Include -I ../../../../../../Drivers/BSP/STM32WLxx_Nucleo -fshort-enums-I./RTE/_LoRaWAN_AT_Slave-IC:/Keil_v5/ARM/PACK/ARM/CMSIS/5.6.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/PACK/Keil/STM32WLxx_DFP/1.1.0/Drivers/CMSIS/Device/ST/STM32WLxx/Include-D__UVISION_VERSION="529" -D_RTE_ -DCORE_CM4 -DSTM32WL55xx -DCORE_CM4 -DUSE_HAL_DRIVER -DSTM32WL55xx -DxBJJA_XO-o lorawan_at_slave/timer_if.o -MD)
@@ -556,7 +556,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\Core\Inc\sys_app.h)(0x636A4E1F)
 I (..\Core\Inc\sys_conf.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\trace\adv_trace\stm32_adv_trace.h)(0x636A4E1F)
@@ -909,7 +909,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 F (../LoRaWAN/App/app_lorawan.c)(0x636A4E1F)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=none -mfloat-abi=soft -c-fno-rtti -funsigned-char-D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../Core/Inc -I ../LoRaWAN/App -I ../LoRaWAN/Target -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/Legacy -I ../../../../../../Utilities/trace/adv_trace -I ../../../../../../Utilities/misc -I ../../../../../../Utilities/sequencer -I ../../../../../../Utilities/timer -I ../../../../../../Utilities/lpm/tiny_lpm -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages -I ../../../../../../Drivers/CMSIS/Device/ST/STM32WLxx/Include -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Crypto -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac/Region -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Utilities -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy/stm32_radio_driver -I ../../../../../../Drivers/CMSIS/Include -I ../../../../../../Drivers/BSP/STM32WLxx_Nucleo -fshort-enums-I./RTE/_LoRaWAN_AT_Slave-IC:/Keil_v5/ARM/PACK/ARM/CMSIS/5.6.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/PACK/Keil/STM32WLxx_DFP/1.1.0/Drivers/CMSIS/Device/ST/STM32WLxx/Include-D__UVISION_VERSION="529" -D_RTE_ -DCORE_CM4 -DSTM32WL55xx -DCORE_CM4 -DUSE_HAL_DRIVER -DSTM32WL55xx -DxBJJA_XO-o lorawan_at_slave/app_lorawan.o -MD)
 I (..\LoRaWAN\App\app_lorawan.h)(0x636A4E1F)
 I (..\LoRaWAN\App\lora_app.h)(0x636A4E1F)
@@ -981,7 +981,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\Core\Inc\sys_app.h)(0x636A4E1F)
 I (..\Core\Inc\sys_conf.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\trace\adv_trace\stm32_adv_trace.h)(0x636A4E1F)
@@ -1069,7 +1069,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\LoRaWAN\App\lora_at.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\LmHandler\LmHandler.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\LmHandler\LmHandlerTypes.h)(0x636A4E1F)
@@ -1164,7 +1164,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\LoRaWAN\App\lora_at.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\LmHandler\LmHandler.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\LmHandler\LmHandlerTypes.h)(0x636A4E1F)
@@ -1242,7 +1242,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\Core\Inc\sys_app.h)(0x636A4E1F)
 I (..\Core\Inc\sys_conf.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\trace\adv_trace\stm32_adv_trace.h)(0x636A4E1F)
@@ -1294,7 +1294,7 @@ I (..\Core\Inc\sys_conf.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\trace\adv_trace\stm32_adv_trace.h)(0x636A4E1F)
 F (../readme.txt)(0x636A4E1F)()
 F (../../../../../../Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo.c)(0x636A4E1F)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=none -mfloat-abi=soft -c-fno-rtti -funsigned-char-D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../Core/Inc -I ../LoRaWAN/App -I ../LoRaWAN/Target -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/Legacy -I ../../../../../../Utilities/trace/adv_trace -I ../../../../../../Utilities/misc -I ../../../../../../Utilities/sequencer -I ../../../../../../Utilities/timer -I ../../../../../../Utilities/lpm/tiny_lpm -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages -I ../../../../../../Drivers/CMSIS/Device/ST/STM32WLxx/Include -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Crypto -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac/Region -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Utilities -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy/stm32_radio_driver -I ../../../../../../Drivers/CMSIS/Include -I ../../../../../../Drivers/BSP/STM32WLxx_Nucleo -fshort-enums-I./RTE/_LoRaWAN_AT_Slave-IC:/Keil_v5/ARM/PACK/ARM/CMSIS/5.6.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/PACK/Keil/STM32WLxx_DFP/1.1.0/Drivers/CMSIS/Device/ST/STM32WLxx/Include-D__UVISION_VERSION="529" -D_RTE_ -DCORE_CM4 -DSTM32WL55xx -DCORE_CM4 -DUSE_HAL_DRIVER -DSTM32WL55xx -DxBJJA_XO-o lorawan_at_slave/stm32wlxx_nucleo.o -MD)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_hal.h)(0x636A4E1F)
@@ -1341,7 +1341,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_spi.h)(0x636A
 I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_hal_uart.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_hal_uart_ex.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_system.h)(0x636A4E1F)
-F (../../../../../../Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_radio.c)(0x64E35476)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=none -mfloat-abi=soft -c-fno-rtti -funsigned-char-D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../Core/Inc -I ../LoRaWAN/App -I ../LoRaWAN/Target -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/Legacy -I ../../../../../../Utilities/trace/adv_trace -I ../../../../../../Utilities/misc -I ../../../../../../Utilities/sequencer -I ../../../../../../Utilities/timer -I ../../../../../../Utilities/lpm/tiny_lpm -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages -I ../../../../../../Drivers/CMSIS/Device/ST/STM32WLxx/Include -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Crypto -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac/Region -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Utilities -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy/stm32_radio_driver -I ../../../../../../Drivers/CMSIS/Include -I ../../../../../../Drivers/BSP/STM32WLxx_Nucleo -fshort-enums-I./RTE/_LoRaWAN_AT_Slave-IC:/Keil_v5/ARM/PACK/ARM/CMSIS/5.6.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/PACK/Keil/STM32WLxx_DFP/1.1.0/Drivers/CMSIS/Device/ST/STM32WLxx/Include-D__UVISION_VERSION="529" -D_RTE_ -DCORE_CM4 -DSTM32WL55xx -DCORE_CM4 -DUSE_HAL_DRIVER -DSTM32WL55xx -DxBJJA_XO-o lorawan_at_slave/stm32wlxx_nucleo_radio.o -MD)
+F (../../../../../../Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_radio.c)(0x663DE219)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=none -mfloat-abi=soft -c-fno-rtti -funsigned-char-D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../Core/Inc -I ../LoRaWAN/App -I ../LoRaWAN/Target -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/Legacy -I ../../../../../../Utilities/trace/adv_trace -I ../../../../../../Utilities/misc -I ../../../../../../Utilities/sequencer -I ../../../../../../Utilities/timer -I ../../../../../../Utilities/lpm/tiny_lpm -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages -I ../../../../../../Drivers/CMSIS/Device/ST/STM32WLxx/Include -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Crypto -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac/Region -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Utilities -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy/stm32_radio_driver -I ../../../../../../Drivers/CMSIS/Include -I ../../../../../../Drivers/BSP/STM32WLxx_Nucleo -fshort-enums-I./RTE/_LoRaWAN_AT_Slave-IC:/Keil_v5/ARM/PACK/ARM/CMSIS/5.6.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/PACK/Keil/STM32WLxx_DFP/1.1.0/Drivers/CMSIS/Device/ST/STM32WLxx/Include-D__UVISION_VERSION="529" -D_RTE_ -DCORE_CM4 -DSTM32WL55xx -DCORE_CM4 -DUSE_HAL_DRIVER -DSTM32WL55xx -DxBJJA_XO-o lorawan_at_slave/stm32wlxx_nucleo_radio.o -MD)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
@@ -1389,6 +1389,25 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_spi.h)(0x636A
 I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_hal_uart.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_hal_uart_ex.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_system.h)(0x636A4E1F)
+I (..\LoRaWAN\Target\radio_conf.h)(0x636A4E1F)
+I (..\Core\Inc\platform.h)(0x636A4E1F)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x5DB34DA0)
+I (..\Core\Inc\main.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
+I (..\Core\Inc\subghz.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Utilities\misc\stm32_mem.h)(0x636A4E1F)
+I (..\Core\Inc\utilities_conf.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Utilities\misc\stm32_tiny_vsnprintf.h)(0x636A4E1F)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdarg.h)(0x5DB34D9E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x5DB34DA0)
+I (..\Core\Inc\utilities_def.h)(0x636A4E1F)
+I (..\LoRaWAN\Target\mw_log_conf.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Utilities\trace\adv_trace\stm32_adv_trace.h)(0x636A4E1F)
+I (..\LoRaWAN\Target\radio_board_if.h)(0x636A4E1F)
+I (..\Core\Inc\sys_debug.h)(0x636A4E1F)
+I (..\Core\Inc\sys_conf.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Middlewares\Third_Party\SubGHz_Phy\stm32_radio_driver\radio_driver.h)(0x636A4E1F)
 F (../../../../../../Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_adc.c)(0x636A4E1F)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=none -mfloat-abi=soft -c-fno-rtti -funsigned-char-D__MICROLIB -gdwarf-3 -Oz -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../Core/Inc -I ../LoRaWAN/App -I ../LoRaWAN/Target -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc -I ../../../../../../Drivers/STM32WLxx_HAL_Driver/Inc/Legacy -I ../../../../../../Utilities/trace/adv_trace -I ../../../../../../Utilities/misc -I ../../../../../../Utilities/sequencer -I ../../../../../../Utilities/timer -I ../../../../../../Utilities/lpm/tiny_lpm -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages -I ../../../../../../Drivers/CMSIS/Device/ST/STM32WLxx/Include -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Crypto -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac/Region -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Mac -I ../../../../../../Middlewares/Third_Party/LoRaWAN/LmHandler -I ../../../../../../Middlewares/Third_Party/LoRaWAN/Utilities -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy -I ../../../../../../Middlewares/Third_Party/SubGHz_Phy/stm32_radio_driver -I ../../../../../../Drivers/CMSIS/Include -I ../../../../../../Drivers/BSP/STM32WLxx_Nucleo -fshort-enums-I./RTE/_LoRaWAN_AT_Slave-IC:/Keil_v5/ARM/PACK/ARM/CMSIS/5.6.0/CMSIS/Core/Include-IC:/Keil_v5/ARM/PACK/Keil/STM32WLxx_DFP/1.1.0/Drivers/CMSIS/Device/ST/STM32WLxx/Include-D__UVISION_VERSION="529" -D_RTE_ -DCORE_CM4 -DSTM32WL55xx -DCORE_CM4 -DUSE_HAL_DRIVER -DSTM32WL55xx -DxBJJA_XO-o lorawan_at_slave/stm32wlxx_hal_adc.o -MD)
 I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_hal.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_hal_conf.h)(0x636A4E1F)
@@ -2432,7 +2451,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\LmHandler\NvmDataMgmt.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\Mac\LoRaMac.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\Mac\LoRaMacInterfaces.h)(0x636A4E1F)
@@ -2513,7 +2532,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\LmHandler\Packages\LmhpPackagesRegistration.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\LmHandler\Packages\LmhPackage.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Middlewares\Third_Party\LoRaWAN\LmHandler\LmHandlerTypes.h)(0x636A4E1F)
@@ -3647,7 +3666,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\Core\Inc\subghz.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\misc\stm32_mem.h)(0x636A4E1F)
 I (..\Core\Inc\utilities_conf.h)(0x636A4E1F)
@@ -3718,7 +3737,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\Core\Inc\subghz.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\misc\stm32_mem.h)(0x636A4E1F)
 I (..\Core\Inc\utilities_conf.h)(0x636A4E1F)
@@ -3796,7 +3815,7 @@ I (..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Inc\stm32wlxx_ll_gpio.h)(0x636
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_radio.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo_errno.h)(0x636A4E1F)
 I (..\Core\Inc\stm32wlxx_nucleo_conf.h)(0x636A4E1F)
-I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x636A4E1F)
+I (..\..\..\..\..\..\Drivers\BSP\STM32WLxx_Nucleo\stm32wlxx_nucleo.h)(0x663DD96A)
 I (..\Core\Inc\subghz.h)(0x636A4E1F)
 I (..\LoRaWAN\Target\mw_log_conf.h)(0x636A4E1F)
 I (..\..\..\..\..\..\Utilities\trace\adv_trace\stm32_adv_trace.h)(0x636A4E1F)

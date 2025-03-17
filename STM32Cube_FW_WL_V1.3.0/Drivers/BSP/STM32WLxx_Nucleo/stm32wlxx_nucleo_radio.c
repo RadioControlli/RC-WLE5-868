@@ -231,11 +231,11 @@ int32_t BSP_RADIO_GetTxConfig(void)
   */
 int32_t BSP_RADIO_IsTCXO(void)
 {
-//#ifdef BJJA_XO
-	return RADIO_CONF_TCXO_NOT_SUPPORTED;
-//#else
-//  return RADIO_CONF_TCXO_SUPPORTED;
-//#endif
+#ifdef RC_WLE_TCXO
+	return RADIO_CONF_TCXO_SUPPORTED;
+#else
+  return RADIO_CONF_TCXO_NOT_SUPPORTED;
+#endif
 	
 }
 
